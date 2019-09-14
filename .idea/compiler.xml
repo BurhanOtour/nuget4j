@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="nuget2poolsupport" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="nuget2pool" target="1.8" />
+      <module name="nuget2pool-support" target="1.7" />
+      <module name="nuget2poolsupport" target="1.7" />
+      <module name="nuget2sw_pool" target="1.8" />
+      <module name="nuget4j" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

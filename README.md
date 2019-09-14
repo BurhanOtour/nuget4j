@@ -1,0 +1,1 @@
+A command line tool for updating F30 software pool based on Nuget releases.

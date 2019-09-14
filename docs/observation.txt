@@ -1,0 +1,3 @@
+1. For NugetInstallAPITest.testDeliverFileExistsAfterInstallation() sometmies the test pass and sometimes the test fail depending on an underlying process executing the command.
+
+
